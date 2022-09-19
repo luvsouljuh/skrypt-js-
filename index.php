@@ -10,11 +10,16 @@
     <script src="script.js"></script>
 </head>
 <body>
+    <div id="baner">
+
+    </div>
+    <hr>
     <div id="czas">
         <script>
             start();
         </script>
     </div>
+<hr>
 
 
 </body>
